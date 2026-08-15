@@ -1,8 +1,8 @@
 [package]
 name = "axiom-node"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
-description = "Orchestrator for the Axiom synthesis-verification-execution pipeline"
+description = "Axiom node orchestration shell for proof/evolution artifacts"
 license = "MIT"
 publish = false
 
