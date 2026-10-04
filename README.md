@@ -1,4 +1,8 @@
 # axiom-node v0.2.0
 
-Workspace/orchestration boundary for long-lived Axiom nodes. v0.2 establishes persistent artifact classes for specs,
-candidates, counterexamples, proofs, DAG events and runtime state.
+Граница workspace/orchestration для долгоживущих Axiom-узлов. v0.2 вводит постоянные классы артефактов для спецификаций,
+кандидатов, контрпримеров, доказательств, событий DAG и runtime-состояния.
+
+## Связанные исследования
+
+Этот компонент входит в исследовательский проект [Axiom](https://github.com/localzet/axiom-stack). Все компоненты собраны по теме [localzet-axiom](https://github.com/topics/localzet-axiom). Основной язык документации — русский. Исследовательские результаты и ограничения не означают готовность к промышленному применению.
